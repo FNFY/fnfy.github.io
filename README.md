@@ -1,2 +1,3 @@
-# fufy.github.io
-web
+# Zoo.Box
+
+AI-assisted early childhood education
