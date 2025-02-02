@@ -1,0 +1,2 @@
+# fufy.github.io
+web
